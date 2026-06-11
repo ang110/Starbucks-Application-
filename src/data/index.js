@@ -122,7 +122,7 @@ export const PromotionBanner=[{
 {
     id: "2",
     img:masalachai,
-    title: "Go Desi With! ",
+    title: "GO DESI WITH! ",
     bg:bg_2,
     head:" Masala Chai",
     des:"Enjoy traditional masala chai with abundance of strong Indian spices and flavourful handpicked tea.  ",
